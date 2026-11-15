@@ -59,4 +59,5 @@ Selamat datang di repositori portofolio saya! Repositori ini mendokumentasikan p
 ## 📂 Daftar Dokumen di Repositori Ini
 * `CV Irman_Efendi_SOC_Analyst.pdf` — Curriculum Vitae terbaru.
 * `Portofolio_SOC_Analyst_L1_Irman_Efendi.pdf` — Laporan lengkap beserta tangkapan layar (*screenshot*) hasil investigasi Splunk & Wireshark.
+* `Portfolio_SOC_Analyst_L1_Irman_Efendi_EN.pdf` — Laporan lengkap versi bahasa inggris .
 * `pengalaman kerja IT.pdf` — Rincian rekam jejak operasional IT & infrastruktur.
