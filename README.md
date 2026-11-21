@@ -1,15 +1,3 @@
-# 🛡️ Cybersecurity & SOC Tier 1 Analyst Portfolio
-
-Selamat datang di repositori portofolio saya! Repositori ini mendokumentasikan proyek laboratorium deteksi ancaman (*Threat Detection*), triase peringatan (*Alert Triage*), dan investigasi insiden keamanan siber menggunakan **Splunk Enterprise** dan **Wireshark**.
-
----
-
-## 👨‍💻 Tentang Saya
-**Irman Efendi** — *Junior SOC Analyst (Tier 1) | IT Infrastructure & Cybersecurity Specialist*  
-📍 Tangerang Selatan, Banten, Indonesia  
-📧 Email: irmaneffendie93@gmail.com  
-📄 Dokumen Lengkap: [Lihat CV Lengkap](./CV_Irman_Efendi_SOC_Analyst.pdf)
-
 ### Core Competencies & Tools
 * **SIEM & Log Analysis:** Splunk Enterprise (SPL Queries, `eval`, `where`, Threshold-based Detection)
 * **Network Traffic Analysis:** Wireshark (PCAP Inspection, HTTP/TCP Stream Analysis)
@@ -57,7 +45,5 @@ Selamat datang di repositori portofolio saya! Repositori ini mendokumentasikan p
 ---
 
 ## 📂 Daftar Dokumen di Repositori Ini
-* `CV Irman_Efendi_SOC_Analyst.pdf` — Curriculum Vitae terbaru.
 * `Portofolio_SOC_Analyst_L1_Irman_Efendi.pdf` — Laporan lengkap beserta tangkapan layar (*screenshot*) hasil investigasi Splunk & Wireshark.
 * `Portfolio_SOC_Analyst_L1_Irman_Efendi_EN.pdf` — Laporan lengkap versi bahasa inggris .
-* `pengalaman kerja IT.pdf` — Rincian rekam jejak operasional IT & infrastruktur.
